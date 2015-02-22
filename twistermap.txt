@@ -1,3 +1,6 @@
 name	mididev	midictl
 time:rate	twister	s13
-surface:line_opacity	twister	s17
+time:run	twister	b13
+surface:line_opacity	twister	s29
+surface:warp_rate	twister	s14
+surface:warp_run	twister	b14
