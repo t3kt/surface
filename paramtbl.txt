@@ -1,2 +1,3 @@
 name	default	smooth
 time:rate	.5	0
+surface:line_opacity	1	1

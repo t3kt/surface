@@ -1,2 +1,3 @@
 name	mididev	midictl
-time:rate	twister	s29
+time:rate	twister	s13
+surface:line_opacity	twister	s17

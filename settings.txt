@@ -3,9 +3,11 @@ renderh_low	720
 renderw_high	1920
 renderh_high	1080
 paramtbl	/_/local/paramtbl
-params	/_/routing/params
-smoothparams	/_/routing/smoothparams
+params	/_/params
+smoothparams	/_/smoothparams
 comps	/_/components
 defaults	/_/local/defaults
 twisterctrlmap	/_/local/twisterctrlmap
 twistertable	/_/local/twistertable
+inputparams	/_/inputparams
+outwindow	/_/mainoutwindow
