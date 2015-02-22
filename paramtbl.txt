@@ -5,3 +5,4 @@ surface:line_opacity	1	1
 surface:warp_rate	.5	0
 surface:warp_run	1	0
 surface:warp_amount	.8	1
+cam:position	0	1

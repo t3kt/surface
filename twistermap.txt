@@ -5,3 +5,4 @@ surface:line_opacity	twister	s29
 surface:warp_rate	twister	s14
 surface:warp_run	twister	b14
 surface:warp_amount	twister	s1
+cam:position	twister	s4
