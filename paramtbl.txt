@@ -1,0 +1,2 @@
+name	default	smooth
+time:rate	.5	0
