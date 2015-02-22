@@ -6,3 +6,4 @@ surface:warp_rate	.5	0
 surface:warp_run	1	0
 surface:warp_amount	.8	1
 cam:position	0	1
+post:echo_level	.8	1
