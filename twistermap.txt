@@ -6,3 +6,6 @@ surface:warp_rate	twister	s14
 surface:warp_run	twister	b14
 surface:warp_amount	twister	s1
 cam:position	twister	s4
+surface:noise_rate	twister	s15
+surface:noise_run	twister	b15
+surface:noise_level	twister	s5
