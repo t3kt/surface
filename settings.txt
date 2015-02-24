@@ -11,3 +11,4 @@ twisterctrlmap	/_/local/twisterctrlmap
 twistertable	/_/local/twistertable
 inputparams	/_/inputparams
 outwindow	/_/mainoutwindow
+mainout	/_/mainout
