@@ -6,7 +6,8 @@ surface:warp_rate	.5	0
 surface:warp_run	1	0
 surface:warp_amount	.8	1
 cam:position	0	1
-post:echo_level	.8	1
-surface:noise_level	.2	1
-surface:noise_run	0	0
 surface:noise_rate	.3	1
+surface:noise_run	0	0
+surface:noise_level	.2	1
+post:echo_level	.8	1
+post:echo_length	.2	1
