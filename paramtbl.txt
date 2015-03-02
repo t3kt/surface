@@ -6,6 +6,7 @@ surface:solid_opacity	.3	1
 surface:warp_rate	.5	0
 surface:warp_run	1	0
 surface:warp_amount	.8	1
+surface:ry	.5	0
 cam:position	0	1
 surface:noise_rate	.3	1
 surface:noise_run	0	0
